@@ -1,2 +1,2 @@
 # calculadora-frequencia
-CAlculadora de frequência escolar para o CNA
+Calculadora de frequência escolar para o CNA
